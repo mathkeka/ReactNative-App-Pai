@@ -1,0 +1,12 @@
+{
+  "name": "minhaCarteira",
+  "displayName": "minhaCarteira",
+  "expo": {
+    "name": "minhaCarteira",
+    "slug": "minhaCarteira",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
