@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     borderColor: colors.primary,
   },
 
-  'button-addViagem': {
+  'button-add': {
     height: metrics.windowHeight * 0.05,
     width: metrics.windowWidth * 0.9,
   },

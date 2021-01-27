@@ -1,5 +1,4 @@
 import { StyleSheet } from 'react-native';
-import { Stylesheet } from 'react-native';
 import { metrics, colors, fonts } from '../../styles';
 
 const styles = StyleSheet.create({
@@ -21,7 +20,6 @@ const styles = StyleSheet.create({
     },
     valueLine: {
         flex: 1,
-        flexDirection: 'row',
     },
     inputValue: {
         borderWidth: 2,

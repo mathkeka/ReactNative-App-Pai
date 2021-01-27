@@ -11,7 +11,7 @@ const GainsScreen = ({ navigation, route }) => {
         <ScrollView style={styles.container}>
             <View style={styles.form}>
                 <View>
-                    <ButtonStyled type='addViagem' typeText='biggest' navigate={navigation.navigate} page='AddGain' >Registrar viagem</ButtonStyled>
+                    <ButtonStyled type='add' typeText='biggest' navigate={navigation.navigate} page='AddGain' >Registrar viagem</ButtonStyled>
                 </View>
                 <Text style={styles.text}>Lista de ganhos</Text>
                 <Text style={styles.text}>...</Text>
